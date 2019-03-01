@@ -1,7 +1,7 @@
 ## 3D Hand Shape and Pose Estimation from a Single RGB Image
 Open source of our CVPR 2019 paper "3D Hand Shape and Pose Estimation from a Single RGB Image"
 
-![prediction example]()
+![prediction example](https://github.com/geliuhao/3DHandShapePosefromRGB/blob/master/teaser.png)
 
 ### Introduction
 This work is based on our [arXiv tech report], which is going to appear in CVPR 2019. You can also check our [project webpage] for a deeper introduction.
