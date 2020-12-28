@@ -22,4 +22,4 @@ If you find our work useful in your research, please consider citing:
 Snap Inc. released the code [here](https://github.com/3d-hand-shape/hand-graph-cnn).
 
 ### Dataset
-coming soon...
+Snap Inc. released the synthetic and real-world datasets [here](https://github.com/3d-hand-shape/hand-graph-cnn/tree/master/data).
